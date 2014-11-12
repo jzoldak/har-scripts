@@ -1,3 +1,4 @@
+webtest==1.1
 pylons==1.0
 webob==0.9.8
 pymongo==2.7.2
